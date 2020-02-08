@@ -11,10 +11,7 @@ import java.util.Date;
 import java.util.Random;
 import org.apache.commons.codec.binary.Base64;
 
-/**
- *
- * @author Aghil
- */
+
 public class NotisUtil {
         public static String getNonce() throws Exception {
 

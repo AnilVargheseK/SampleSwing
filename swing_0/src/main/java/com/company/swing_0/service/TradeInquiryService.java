@@ -15,10 +15,7 @@ import java.io.OutputStream;
 import java.net.URL;
 import javax.net.ssl.HttpsURLConnection;
 
-/**
- *
- * @author Aghil
- */
+
 public class TradeInquiryService {
 
     private static final String DATA_FORMAT = "CSV:CSV";

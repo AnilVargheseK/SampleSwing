@@ -6,10 +6,7 @@
 
 package com.company.swing_0.util;
 
-/**
- *
- * @author Aghil
- */
+
 public class DateUtil {
     
 }

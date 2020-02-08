@@ -9,10 +9,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- *
- * @author Aghil
- */
+
 public class PropertiesLoader {
 
     private static final Properties properties = new Properties();

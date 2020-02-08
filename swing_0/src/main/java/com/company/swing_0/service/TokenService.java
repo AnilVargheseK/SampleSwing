@@ -21,10 +21,6 @@ import javax.net.ssl.SSLContext;
 import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
-/**
- *
- * @author Aghil
- */
 public class TokenService {
 
     private static final String GRANT_TYPE_URL_DATA = "grant_type=client_credentials";
